@@ -20,4 +20,5 @@ public class Employee extends AbsStaffMember {
 		totalPaid=paymentRate.pay(salaryPerMonth);
 	}
 
+
 }
